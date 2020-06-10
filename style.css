@@ -197,12 +197,13 @@ a.button1.police2.couleur3:hover {
   justify-content: space-between;
   align-items: center;
   font-size: 15px; }
-  .section p {
+
+h1 {
     text-align: center;
     font-weight: bold;
     color: #353535;
     font-family: 'Manrope', sans-serif;
-    font-size: 35px; }
+    font-size: 35px;}
 
 .Sous_titre {
   margin-top: 100px; }
