@@ -1,23 +1,23 @@
 body{
-	margin: 0px;
+    margin: 0px;
 }
 
 
 
 header #title{
-	font-family: 'Righteous', cursive;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	background-color: #669A88;
-	width: 100%;
-	height: 80px;
-	font-size: 40px
+    font-family: 'Righteous', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #669A88;
+    width: 100%;
+    height: 80px;
+    font-size: 40px
 }
 
 
 .yellow {
-	color: #F6CB60
+    color: #F6CB60
 }
 
 section {
@@ -25,7 +25,7 @@ section {
 }
 
 .section{
-	width: 50%;
+    width: 50%;
     display: flex;
     margin-left: 340px;
     flex-wrap: wrap;
@@ -34,7 +34,7 @@ section {
 
 
 .menu{ 
-	background-color: #F8E0DC;
+    background-color: #F8E0DC;
     width: 46%;
     height: 490px;
     display: flex;
@@ -48,139 +48,139 @@ section {
 
  /* -- Menu 1 -- */
 .menu1 i{
-	font-size: 35px;
-	background: -webkit-linear-gradient(#E05F62, #EA945E);
-  	-webkit-background-clip: text;
- 	-webkit-text-fill-color: transparent;}
+    font-size: 35px;
+    background: -webkit-linear-gradient(#E05F62, #EA945E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
 
 .menu.menu1 a{
     font-size: 25px;
-	display: flex;
+    display: flex;
     flex-direction: column;
     height: 100%;
     width: 100%;
     justify-content: center;
     text-decoration: none;
     transform: scale(1);
-	transition: all 0.33s ease-in-out;
+    transition: all 0.33s ease-in-out;
     color: #381519;}
 
 .menu1 a:hover{
-	transform: scale(1.2);
-	transition: transform 0.33s ease-in-out;}
+    transform: scale(1.2);
+    transition: transform 0.33s ease-in-out;}
 
 .menu.menu1{
-	background-color: #F9E2DE;
-	box-shadow: 0px 0px 9px grey;}
+    background-color: #F9E2DE;
+    box-shadow: 0px 0px 9px grey;}
 
 #police1{
-	font-family: 'Mali', cursive;
-	font-style: italic, none ;}
+    font-family: 'Mali', cursive;
+    font-style: italic, none ;}
 
 #police2{
-	font-family: 'Patua One', cursive;
+    font-family: 'Patua One', cursive;
 }
 
-#police3{
-	font-family: 'Caveat', cursive;
+.police3{
+    font-family: 'Caveat', cursive;
 }
 
 #titre_menu{
-	font-family: 'Calistoga', cursive;
-	font-style: italic;}
+    font-family: 'Calistoga', cursive;
+    font-style: italic;}
 
 
 
  /* -- Menu 2 -- */
 .menu.menu2{
-	background-color: #FDF5FD;
-	font-family: 'Lobster', cursive;}
+    background-color: #FDF5FD;
+    font-family: 'Lobster', cursive;}
 
 .menu.menu2 a{
     font-size: 25px;
-	display: flex;
+    display: flex;
     flex-direction: column;
     height: 100%;
     width: 100%;
     justify-content: center;
     text-decoration: none;
     transform: scale(1);
-	transition: all 0.33s ease-in-out;
+    transition: all 0.33s ease-in-out;
     color: #381519;}
 
 .menu2 a:hover{
-	transform: scale(1.2);
-	transition: transform 0.33s ease-in-out;}
+    transform: scale(1.2);
+    transition: transform 0.33s ease-in-out;}
 
 .menu2 p{
-	background: -webkit-linear-gradient(#BD7730, #986ACB);
-  	-webkit-background-clip: text;
- 	-webkit-text-fill-color: transparent;}
+    background: -webkit-linear-gradient(#BD7730, #986ACB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
 
 
 
  /* -- Menu 3 -- */
 .menu.menu3{
-	margin-left: 11px;
-	background: #F9F9F9;
-	font-family: 'Cookie', cursive;
-	font-style: italic;}
+    margin-left: 11px;
+    background: #F9F9F9;
+    font-family: 'Cookie', cursive;
+    font-style: italic;}
 
 .menu.menu3 a{
     font-size: 25px;
-	display: flex;
+    display: flex;
     flex-direction: column;
     height: 100%;
     width: 100%;
     justify-content: center;
     text-decoration: none;
     transform: scale(1);
-	transition: all 0.33s ease-in-out;
+    transition: all 0.33s ease-in-out;
     color: #381519;}
 
 .menu3 a:hover{
-	transform: scale(1.5);
-	transition: transform 0.33s ease-in-out;}
+    transform: scale(1.5);
+    transition: transform 0.33s ease-in-out;}
 
 .menu3 p{
-	background: -webkit-linear-gradient(#0030D5, #3587F3);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;}
+    background: -webkit-linear-gradient(#0030D5, #3587F3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
 
 
 
  /* -- Menu 4 -- */
 
 .menu.menu4{
-	margin-left: 21px;
-	background: #FFFF;
-	font-family: 'Merienda', cursive;
-	font-style: italic;}
+    margin-left: 21px;
+    background: #FFFF;
+    font-family: 'Merienda', cursive;
+    font-style: italic;}
 
 .menu.menu4 a{
     font-size: 25px;
-	display: flex;
+    display: flex;
     flex-direction: column;
     height: 100%;
     width: 100%;
     justify-content: center;
     text-decoration: none;
     transform: scale(1);
-	transition: all 0.33s ease-in-out;
+    transition: all 0.33s ease-in-out;
     color: #381519;}
 
 .menu4 a:hover{
-	transform: scale(1.2);
-	transition: transform 0.33s ease-in-out;}
+    transform: scale(1.2);
+    transition: transform 0.33s ease-in-out;}
 
 
 .menu4 p{
-	background: -webkit-linear-gradient(#569448,#CBFC28);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;}
+    background: -webkit-linear-gradient(#569448,#CBFC28);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
 
 .txt {
-	width: 12%;
+    width: 12%;
     margin-left: 592px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -240,7 +240,7 @@ section {
 #end{
     position: fixed;
     bottom: 0px;
-	font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     display: flex;
     height: 80px;
     flex-direction: row;
