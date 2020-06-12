@@ -4,7 +4,7 @@ body{
 
 
 
-header #title{
+header .title{
     font-family: 'Righteous', cursive;
     display: flex;
     justify-content: center;
@@ -15,6 +15,13 @@ header #title{
     font-size: 40px
 }
 
+header a{
+    text-decoration: none;
+}
+
+header .yellow {
+    color: #F6CB60
+}
 
 .yellow {
     color: #F6CB60
@@ -237,7 +244,7 @@ section {
     animation-timing-function: ease-in;
 }
 
-#end{
+.end{
     position: fixed;
     bottom: 0px;
     font-family: 'Roboto', sans-serif;

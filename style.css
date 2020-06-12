@@ -17,6 +17,12 @@ header .title {
   height: 80px;
   font-size: 40px; }
 
+header a{
+    text-decoration: none;}
+
+header .yellow {
+    color: #F6CB60}
+
 .yellow {
   color: #F6CB60; }
 
